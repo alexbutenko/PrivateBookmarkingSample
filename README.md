@@ -1,6 +1,14 @@
 PrivateBookmarkingSample
 ========================
 
+![alt tag](https://raw.githubusercontent.com/alexbutenko/PrivateBookmarkingSample/master/screenshot1.png)
+
+
+![alt tag](https://raw.githubusercontent.com/alexbutenko/PrivateBookmarkingSample/master/screenshot2.png)
+
+
+![alt tag](https://raw.githubusercontent.com/alexbutenko/PrivateBookmarkingSample/master/screenshot3.png)
+
 Private bookmarking sample app to demonstrate usage of Action extension and TouchID
 
 1. Create app group at your Developer program portal
